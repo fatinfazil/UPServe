@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Learn Web Development",
+    "imageUrl": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800&h=400&fit=crop",
+    "description": "Master modern web technologies"
+  },
+  {
+    "id": 2,
+    "title": "Photography Service",
+    "imageUrl": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?w=800&h=400&fit=crop",
+    "description": "Capture stunning photos like a pro"
+  },
+  {
+    "id": 3,
+    "title": "Maths Tutoring",
+    "imageUrl": "https://images.unsplash.com/photo-1543286386-713bdd548da4?w=800&h=400&fit=crop",
+    "description": "Build strong maths skills with guidance"
+  },
+  {
+    "id": 4,
+    "title": "Graphic Design",
+    "imageUrl": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=800&h=400&fit=crop",
+    "description": "Create beautiful visual designs"
+  },
+  {
+    "id": 5,
+    "title": "Mobile Development",
+    "imageUrl": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=400&fit=crop",
+    "description": "Build amazing mobile applications"
+  }
+]

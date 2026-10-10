@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "387286456375",
+    "project_id": "upserve-51da1",
+    "storage_bucket": "upserve-51da1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387286456375:android:e46a41cc16e89004e287b2",
+        "android_client_info": {
+          "package_name": "com.example.madlabexam02skillswaps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9fHuGyS2DbaI3HeecYUSi-8l2AUUhon8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387286456375:android:65a8e18d29a03f66e287b2",
+        "android_client_info": {
+          "package_name": "com.example.upserve_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9fHuGyS2DbaI3HeecYUSi-8l2AUUhon8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
